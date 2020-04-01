@@ -1,0 +1,5 @@
+There are 11 commits in total.
+
+Author: Stepan Bolotnikov <stjoopa@gmail.com>
+
+There is no commit with the SHA-1 hash 790a2aa
